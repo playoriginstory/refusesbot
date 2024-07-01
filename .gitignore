@@ -1,0 +1,8 @@
+# Ignore directories
+node_modules/
+src/
+
+# Ignore files
+.env
+tsconfig.json
+telegram.sol
